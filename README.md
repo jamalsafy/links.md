@@ -3,7 +3,7 @@
 ## Useful Links
 This is a compact way to render some useful links.
 
-- **MS Office:**  
+- **MS Office:**   
   [Outlook](https://outlook.office.com/) •  
   [Teams](https://teams.microsoft.com/v2/) •  
   [OneDrive](https://georgebrowncollege-my.sharepoint.com/) •  
